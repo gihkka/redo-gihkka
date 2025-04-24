@@ -1,0 +1,12 @@
+button {
+  margin-top: 20px;
+  font-family: 'Comic Sans ms';
+  font-size: 100%;
+}
+body {
+  text-align: center;
+  background-color: black;
+  color: white;
+  font-family: 'Comic Sans ms';
+  font-size: 150%;
+}
